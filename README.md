@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/license/profesorfalken/jSensors.svg)
 ![](https://travis-ci.org/profesorfalken/jSensors.svg)
 
-# jSensors
+# jSensors 自己
 Monitorize all the hardware sensors of your PC using Java
 
 #### Windows Example Output ####
